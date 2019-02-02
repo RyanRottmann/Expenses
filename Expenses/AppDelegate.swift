@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Expenses
+//  Expenses Challenge Solution
 //
-//  Created by Ryan Rottmann on 1/25/19.
+//  Created by Ryan Rottmann on 1/27/19.
 //  Copyright © 2019 Ryan Rottmann. All rights reserved.
 //
 
